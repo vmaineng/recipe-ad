@@ -30,7 +30,7 @@ const Navbar = () => {
               <a
                 key={nav.name}
                 href={nav.href}
-                className="text-gray hover:text-amber-600 px-5 py-3"
+                className="text-black hover:text-amber-600 px-5 py-3"
               >
                 {nav.name}
               </a>
